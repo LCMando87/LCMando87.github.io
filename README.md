@@ -10,6 +10,10 @@
         <link href="dist/Bootstrap/css/bootstrap.min.css" rel="stylesheet">
  	</head>
     <body>
+    	<!-- Bootstrap JS -->
+
+	   <script src="dist/Bootstrap/js/bootstrap.bundle.min.js"></script>
+
         <div class="container">
             <nav>
                 <h1>NavBar</h1>
