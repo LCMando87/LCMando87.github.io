@@ -10,6 +10,8 @@
 /* Make the images invisible by default */
 .Containers {
   display: none;
+  max-height: 200px;
+  max-width: 300px;
 }
 
 /* forward & Back buttons */
